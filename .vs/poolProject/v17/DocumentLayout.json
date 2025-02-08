@@ -1,0 +1,567 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|solutionrelative:pool.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|solutionrelative:pool.api\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.core\\repositories\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|solutionrelative:pool.core\\repositories\\iactivityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.data\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|solutionrelative:pool.data\\repositories\\activityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881285B7-30BE-424A-9258-A0F74362662A}|Pool.Service\\Pool.Service.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.service\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881285B7-30BE-424A-9258-A0F74362662A}|Pool.Service\\Pool.Service.csproj|solutionrelative:pool.service\\activityservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.data\\repositories\\guiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|solutionrelative:pool.data\\repositories\\guiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.core\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|solutionrelative:pool.core\\models\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\library\\classes_enums\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|solutionrelative:library\\classes_enums\\activity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.core\\repositories\\iguiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|solutionrelative:pool.core\\repositories\\iguiderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.core\\pool.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|solutionrelative:pool.core\\pool.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.data\\pool.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|solutionrelative:pool.data\\pool.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\library\\classes_enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|solutionrelative:library\\classes_enums\\enums.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|solutionrelative:test1\\test1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\poolproject\\poolproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|solutionrelative:poolproject\\poolproject.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.core\\repositories\\iswimmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948AC7C4-ED44-45BA-A886-68929C5541CD}|Pool.Core\\Pool.Core.csproj|solutionrelative:pool.core\\repositories\\iswimmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.data\\repositories\\swimmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|solutionrelative:pool.data\\repositories\\swimmerrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E42B333E-F371-4269-83E6-61088B7613AF}|Pool.Data\\Pool.Data.csproj|solutionrelative:pool.data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881285B7-30BE-424A-9258-A0F74362662A}|Pool.Service\\Pool.Service.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.service\\swimmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881285B7-30BE-424A-9258-A0F74362662A}|Pool.Service\\Pool.Service.csproj|solutionrelative:pool.service\\swimmerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{881285B7-30BE-424A-9258-A0F74362662A}|Pool.Service\\Pool.Service.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.service\\guideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{881285B7-30BE-424A-9258-A0F74362662A}|Pool.Service\\Pool.Service.csproj|solutionrelative:pool.service\\guideservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\library\\classes_enums\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|solutionrelative:library\\classes_enums\\idatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|solutionrelative:pool.api\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\pool.api\\controllers\\swimmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{781DDC24-256B-4042-8DD8-4125542C2E49}|Pool.Api\\Pool.Api.csproj|solutionrelative:pool.api\\controllers\\swimmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\poolproject\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|solutionrelative:poolproject\\controllers\\activitycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\test1\\swimmertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|solutionrelative:test1\\swimmertest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\test1\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|solutionrelative:test1\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\test1\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA9CF161-46DE-48D2-8040-56F904EC656E}|Test1\\Test1.csproj|solutionrelative:test1\\fakecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\poolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|solutionrelative:poolproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\poolproject\\controllers\\swimmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|solutionrelative:poolproject\\controllers\\swimmercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\poolproject\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68ACF965-4D9B-4C5B-93E4-741579CC9553}|poolProject\\poolProject.csproj|solutionrelative:poolproject\\controllers\\guidecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\library\\classes_enums\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|solutionrelative:library\\classes_enums\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\library\\classes_enums\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|solutionrelative:library\\classes_enums\\guide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|y:\\groups\\group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolproject\\library\\classes_enums\\swimmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F602D405-F2CB-4192-A4E3-72175E773373}|library\\library.csproj|solutionrelative:library\\classes_enums\\swimmer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Pool.Api\\Program.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Program.cs",
+              "RelativeToolTip": "Pool.Api\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:46:40.295Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IActivityRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Repositories\\IActivityRepository.cs",
+              "RelativeDocumentMoniker": "Pool.Core\\Repositories\\IActivityRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Repositories\\IActivityRepository.cs",
+              "RelativeToolTip": "Pool.Core\\Repositories\\IActivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:02:39.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ActivityRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Repositories\\ActivityRepository.cs",
+              "RelativeDocumentMoniker": "Pool.Data\\Repositories\\ActivityRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Repositories\\ActivityRepository.cs",
+              "RelativeToolTip": "Pool.Data\\Repositories\\ActivityRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:48:56.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "Pool.Api\\Controllers\\ActivityController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "Pool.Api\\Controllers\\ActivityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:21:26.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ActivityService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Service\\ActivityService.cs",
+              "RelativeDocumentMoniker": "Pool.Service\\ActivityService.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Service\\ActivityService.cs",
+              "RelativeToolTip": "Pool.Service\\ActivityService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:39:57.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GuideRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Repositories\\GuideRepository.cs",
+              "RelativeDocumentMoniker": "Pool.Data\\Repositories\\GuideRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Repositories\\GuideRepository.cs",
+              "RelativeToolTip": "Pool.Data\\Repositories\\GuideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:49:15.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\models\\Activity.cs",
+              "RelativeDocumentMoniker": "Pool.Core\\models\\Activity.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\models\\Activity.cs",
+              "RelativeToolTip": "Pool.Core\\models\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:37:45.531Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Activity.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Activity.cs",
+              "RelativeDocumentMoniker": "library\\classes_enums\\Activity.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Activity.cs",
+              "RelativeToolTip": "library\\classes_enums\\Activity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IGuideRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Repositories\\IGuideRepository.cs",
+              "RelativeDocumentMoniker": "Pool.Core\\Repositories\\IGuideRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Repositories\\IGuideRepository.cs",
+              "RelativeToolTip": "Pool.Core\\Repositories\\IGuideRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:03:13.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pool.Core",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Pool.Core.csproj",
+              "RelativeDocumentMoniker": "Pool.Core\\Pool.Core.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Pool.Core.csproj",
+              "RelativeToolTip": "Pool.Core\\Pool.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T09:24:22.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pool.Data",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Pool.Data.csproj",
+              "RelativeDocumentMoniker": "Pool.Data\\Pool.Data.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Pool.Data.csproj",
+              "RelativeToolTip": "Pool.Data\\Pool.Data.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T09:46:51.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Enums.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Enums.cs",
+              "RelativeDocumentMoniker": "library\\classes_enums\\Enums.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Enums.cs",
+              "RelativeToolTip": "library\\classes_enums\\Enums.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Test1.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\Test1.csproj",
+              "RelativeDocumentMoniker": "Test1\\Test1.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\Test1.csproj",
+              "RelativeToolTip": "Test1\\Test1.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T08:53:51.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "poolProject.csproj",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\poolProject.csproj",
+              "RelativeDocumentMoniker": "poolProject\\poolProject.csproj",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\poolProject.csproj",
+              "RelativeToolTip": "poolProject\\poolProject.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-28T08:53:51.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ISwimmerRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Repositories\\ISwimmerRepository.cs",
+              "RelativeDocumentMoniker": "Pool.Core\\Repositories\\ISwimmerRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Core\\Repositories\\ISwimmerRepository.cs",
+              "RelativeToolTip": "Pool.Core\\Repositories\\ISwimmerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T10:03:41.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "SwimmerRepository.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Repositories\\SwimmerRepository.cs",
+              "RelativeDocumentMoniker": "Pool.Data\\Repositories\\SwimmerRepository.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\Repositories\\SwimmerRepository.cs",
+              "RelativeToolTip": "Pool.Data\\Repositories\\SwimmerRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:49:37.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\DataContext.cs",
+              "RelativeDocumentMoniker": "Pool.Data\\DataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Data\\DataContext.cs",
+              "RelativeToolTip": "Pool.Data\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:43:21.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "SwimmerService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Service\\SwimmerService.cs",
+              "RelativeDocumentMoniker": "Pool.Service\\SwimmerService.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Service\\SwimmerService.cs",
+              "RelativeToolTip": "Pool.Service\\SwimmerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:41:02.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "GuideService.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Service\\GuideService.cs",
+              "RelativeDocumentMoniker": "Pool.Service\\GuideService.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Service\\GuideService.cs",
+              "RelativeToolTip": "Pool.Service\\GuideService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:40:34.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SwimmerController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Controllers\\SwimmerController.cs",
+              "RelativeDocumentMoniker": "Pool.Api\\Controllers\\SwimmerController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Controllers\\SwimmerController.cs",
+              "RelativeToolTip": "Pool.Api\\Controllers\\SwimmerController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:22:17.272Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GuideController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Controllers\\GuideController.cs",
+              "RelativeDocumentMoniker": "Pool.Api\\Controllers\\GuideController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Pool.Api\\Controllers\\GuideController.cs",
+              "RelativeToolTip": "Pool.Api\\Controllers\\GuideController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T09:21:36.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ActivityController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Controllers\\ActivityController.cs",
+              "RelativeDocumentMoniker": "poolProject\\Controllers\\ActivityController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Controllers\\ActivityController.cs",
+              "RelativeToolTip": "poolProject\\Controllers\\ActivityController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IDataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\IDataContext.cs",
+              "RelativeDocumentMoniker": "library\\classes_enums\\IDataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\IDataContext.cs",
+              "RelativeToolTip": "library\\classes_enums\\IDataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FakeContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\FakeContext.cs",
+              "RelativeDocumentMoniker": "Test1\\FakeContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\FakeContext.cs",
+              "RelativeToolTip": "Test1\\FakeContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAoAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.764Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataContext.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\DataContext.cs",
+              "RelativeDocumentMoniker": "library\\classes_enums\\DataContext.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\DataContext.cs",
+              "RelativeToolTip": "library\\classes_enums\\DataContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "SwimmerController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Controllers\\SwimmerController.cs",
+              "RelativeDocumentMoniker": "poolProject\\Controllers\\SwimmerController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Controllers\\SwimmerController.cs",
+              "RelativeToolTip": "poolProject\\Controllers\\SwimmerController.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwBoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "GuideController.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Controllers\\GuideController.cs",
+              "RelativeDocumentMoniker": "poolProject\\Controllers\\GuideController.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Controllers\\GuideController.cs",
+              "RelativeToolTip": "poolProject\\Controllers\\GuideController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SwimmerTest.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\SwimmerTest.cs",
+              "RelativeDocumentMoniker": "Test1\\SwimmerTest.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\SwimmerTest.cs",
+              "RelativeToolTip": "Test1\\SwimmerTest.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAxwBgAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Program.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Program.cs",
+              "RelativeDocumentMoniker": "poolProject\\Program.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\poolProject\\Program.cs",
+              "RelativeToolTip": "poolProject\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Guide.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Guide.cs",
+              "RelativeDocumentMoniker": "library\\classes_enums\\Guide.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Guide.cs",
+              "RelativeToolTip": "library\\classes_enums\\Guide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\Usings.cs",
+              "RelativeDocumentMoniker": "Test1\\Usings.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\Test1\\Usings.cs",
+              "RelativeToolTip": "Test1\\Usings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Swimmer.cs",
+              "DocumentMoniker": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Swimmer.cs",
+              "RelativeDocumentMoniker": "library\\classes_enums\\Swimmer.cs",
+              "ToolTip": "Y:\\Groups\\Group_1\\\u05D4\u05D6\u05D4 \u05E8\u05D5\u05EA \u05D9\u05D5\u05DB\u05D1\u05D3\\poolProject\\library\\classes_enums\\Swimmer.cs",
+              "RelativeToolTip": "library\\classes_enums\\Swimmer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T08:53:51.94Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
